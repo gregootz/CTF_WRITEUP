@@ -1,6 +1,5 @@
-# CTF_WRITEUP
+# 🛡️ CTF_WRITEUP
 This repository contains structured writeups for Capture The Flag (CTF) challenges across multiple domains, including Web Exploitation, Cryptography, Binary Exploitation, and Digital Forensics. Designed to document methodologies, tools used, and reasoning behind each solution
-# 🛡️ CTF Writeups
 
 > A collection of Capture The Flag (CTF) challenge writeups — from beginner to advanced — across categories like Web, Crypto, Pwn, Reverse Engineering, Forensics, Osint, boot2root and Misc.
 
