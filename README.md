@@ -27,6 +27,14 @@ Each writeup includes:
 
 ---
 
+🤝 Contributions
+
+Feel free to open issues or pull requests to discuss techniques, add notes, or improve the writeups.
+---
+🧠 Disclaimer
+
+All content is for educational purposes only. Do not use the techniques described here for unauthorized activity.
+---
 ## 🎯 Purpose
 
 This repo serves as:
@@ -46,10 +54,3 @@ ctf_writeup/
 │   ├── crypto/
 │   └── forensics/
 
-🤝 Contributions
-
-Feel free to open issues or pull requests to discuss techniques, add notes, or improve the writeups.
-
-🧠 Disclaimer
-
-All content is for educational purposes only. Do not use the techniques described here for unauthorized activity.
